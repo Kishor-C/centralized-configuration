@@ -1,0 +1,3 @@
+# you can write any spring boot / cloud properties
+environment:
+  name: This is development hello.yml
